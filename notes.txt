@@ -5,3 +5,4 @@ https://habrahabr.ru/post/106912/
 Win cache: Control Panel -> Account Mgmt -> Credentials Mgmt
 1 1 1
 111
+555
